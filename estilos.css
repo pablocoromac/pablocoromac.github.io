@@ -1,0 +1,32 @@
+body{
+    font-family: 'Mulish', sans-serif;
+}
+img{
+   cursor: pointer;
+   transition:  4s;
+   
+
+}
+img:hover{
+    transform: scale(1.1);
+    transition: 4s;
+
+}
+body{
+    background-color: rgb(25, 24, 24);
+}
+
+iframe{
+    width: 30%;
+    height:100vh;
+    border-radius: 1%;
+ 
+    
+
+}
+marquee{
+    background-image:url('./imagnes/q-1-PhotoRoom.png');
+    background-repeat:round;
+    position: relative ;
+    
+}

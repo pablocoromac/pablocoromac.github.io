@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(25, 24, 24);
+     font-family: 'Mulish', sans-serif;
+  
+}
+img{
+  max-width: 100%;
+  height: auto;
+  max-height: 80vh;
+  
+    
+}
+
+  
+  .page {
+   
+    background-color: black;
+    transition: transform 1s;
+    transform-origin: 0 50%;
+  }
+  
+  .page.next-page {
+    transform: translateX(-100px)
+  }
+
+  .negro{
+
+    
+    background-color: rgb(25, 24, 24);
+      
+  }
+    
+ .v{
+  justify-content: center;
+  display: flex;
+  align-items: center;
+ }
